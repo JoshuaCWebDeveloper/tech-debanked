@@ -25,7 +25,7 @@ Record of debanking in tech industry as brought into the zeitgeist by @pmarca on
 
         // Create a new paragraph element to display the result
         const resultParagraph = document.createElement("p");
-        resultParagraph.textContent = `Number of blockquotes: ${blockquoteCount}`;
+        resultParagraph.textContent = `Running Total: ${blockquoteCount}`;
 
         // Replace the script tag with the result paragraph
         scriptTag.parentNode.replaceChild(resultParagraph, scriptTag);
