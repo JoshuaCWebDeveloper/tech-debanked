@@ -1,4 +1,4 @@
-# tech-debanked
+# Tech Debanked
 Record of debanking in tech industry as brought into the zeitgeist by @pmarca on @joerogan.
 
 ## The @pmarca episode
