@@ -12,6 +12,9 @@ Record of debanking in tech industry as brought into the zeitgeist by @pmarca on
 ## List of Tech Founders
 
 <script>
+    // Store a reference to the script tag before waiting for the DOM content to load
+    const scriptTag = document.currentScript;
+
     // Wait until the DOM content is fully loaded
     document.addEventListener("DOMContentLoaded", function() {
         // Get the parent div by its ID
@@ -24,9 +27,8 @@ Record of debanking in tech industry as brought into the zeitgeist by @pmarca on
         const resultParagraph = document.createElement("p");
         resultParagraph.textContent = `Number of blockquotes: ${blockquoteCount}`;
 
-        // Find the script tag and replace it with the result paragraph
-        const scriptTag = document.currentScript; // Get the current script element
-        scriptTag.parentNode.replaceChild(resultParagraph, scriptTag); // Replace the script tag with the paragraph
+        // Replace the script tag with the result paragraph
+        scriptTag.parentNode.replaceChild(resultParagraph, scriptTag);
     });
 </script>
 
