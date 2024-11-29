@@ -12,19 +12,22 @@ Record of debanking in tech industry as brought into the zeitgeist by @pmarca on
 ## List of Tech Founders
 
 <script>
-    // Get the parent div by its ID
-    const parentElement = document.getElementById("list-of-tech-founders-list");
+    // Wait until the DOM content is fully loaded
+    document.addEventListener("DOMContentLoaded", function() {
+        // Get the parent div by its ID
+        const parentElement = document.getElementById("list-of-tech-founders-list");
 
-    // Count the number of blockquotes inside this parent
-    const blockquoteCount = parentElement.getElementsByTagName("blockquote").length;
+        // Count the number of blockquotes inside this parent
+        const blockquoteCount = parentElement.getElementsByTagName("blockquote").length;
 
-    // Create a new paragraph element to display the result
-    const resultParagraph = document.createElement("p");
-    resultParagraph.textContent = `Number of blockquotes: ${blockquoteCount}`;
+        // Create a new paragraph element to display the result
+        const resultParagraph = document.createElement("p");
+        resultParagraph.textContent = `Number of blockquotes: ${blockquoteCount}`;
 
-    // Find the script tag and replace it with the result paragraph
-    const scriptTag = document.currentScript; // Get the current script element
-    scriptTag.parentNode.replaceChild(resultParagraph, scriptTag); // Replace the script tag with the paragraph
+        // Find the script tag and replace it with the result paragraph
+        const scriptTag = document.currentScript; // Get the current script element
+        scriptTag.parentNode.replaceChild(resultParagraph, scriptTag); // Replace the script tag with the paragraph
+    });
 </script>
 
 <div id="list-of-tech-founders-list">
