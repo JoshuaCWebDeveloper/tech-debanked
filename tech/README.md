@@ -84,4 +84,6 @@ Record of debanking in tech industry as brought into the zeitgeist by @pmarca on
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;ve been debanked by 3 banks now: <br><br>Chase <br>Citibank <br>Schwab <br><br>I got tired of it... that&#39;s why I started <a href="https://twitter.com/Onesafeio?ref_src=twsrc%5Etfw">@Onesafeio</a> <a href="https://t.co/9loeBdgza7">https://t.co/9loeBdgza7</a></p>&mdash; Shei (@0xshei) <a href="https://twitter.com/0xshei/status/1861753435898663415?ref_src=twsrc%5Etfw">November 27, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How Libra Was Killed.<br><br>I never shared this publicly before, but since <a href="https://twitter.com/pmarca?ref_src=twsrc%5Etfw">@pmarca</a> opened the floodgates on <a href="https://twitter.com/joerogan?ref_src=twsrc%5Etfw">@joerogan</a>’s pod, it feels appropriate to shed more light on this.<br><br>As a reminder, Libra (then Diem) was an advanced, high-performance, payments-centric blockchain paired with a…</p>&mdash; David Marcus (@davidmarcus) <a href="https://twitter.com/davidmarcus/status/1862654506774810641?ref_src=twsrc%5Etfw">November 30, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 </div>
